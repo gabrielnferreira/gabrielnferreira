@@ -1,4 +1,4 @@
-### Fala, beleza? :wink:
+### Gabriel Ferreira :wink:
 - :computer: Desenvolvedor Full Stack na **@Mind Consulting** :star: :star:.
 - ⚡ Apaixonado em desenvolvimento de software e tecnologias atuais.
 - :book: :brazil: Bacharelado em Ciência da Computação (UTFPR - Ponta Grossa).
