@@ -8,6 +8,9 @@
 - :walking: 23 anos.
 - :link: Linkedin: https://www.linkedin.com/in/gabriel-ferreira-31417590/
 
+
+---
+
 ### Conecte-se comigo:
 
 [<img align="left" alt="gabriel-ferreira-31417590 | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -15,6 +18,8 @@
 [<img align="left" alt="gabriel97felipe | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 ---
+
+### Meus status:
 
 <img align="center" alt="Meus status" src="https://github-readme-stats.vercel.app/api?username=gabriel97felipe&show_icons=true&hide_border=true" />
 
