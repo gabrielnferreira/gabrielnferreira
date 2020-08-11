@@ -6,7 +6,6 @@
 - 😄 Estudante na área TI há mais de 7 anos.
 - :video_game: Amante de ficção, jogos, futebol e cerveja gelada.
 - :walking: 23 anos.
-- :link: Linkedin: https://www.linkedin.com/in/gabriel-ferreira-31417590/
 
 
 ### Conecte-se comigo:
