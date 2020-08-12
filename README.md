@@ -38,8 +38,8 @@
 ---
 ### Meus status:
 
-<img align="left" alt="Meus status" src="https://github-readme-stats.vercel.app/api?username=gabriel97felipe&show_icons=true&hide_border=true&count_private=true&hide=issues&include_all_commits=true" />
 <img align="left" alt="Meus status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel97felipe&layout=compact" />
+<img align="left" alt="Meus status" src="https://github-readme-stats.vercel.app/api?username=gabriel97felipe&show_icons=true&hide_border=true&count_private=true&hide=issues&include_all_commits=true" />
 
 
 
