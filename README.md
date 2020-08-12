@@ -13,15 +13,15 @@
 [<img align="left" alt="gabriel-ferreira-31417590 | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="gabriel97felipe | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="gabriel97felipe | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+<br>
 
 
 ---
+### Meus status:
 
-
-<img align="center" alt="Meus status" src="https://github-readme-stats.vercel.app/api?username=gabriel97felipe&show_icons=true&hide_border=true&count_private=true&hide=issues&include_all_commits=true" />
+<img align="left" alt="Meus status" src="https://github-readme-stats.vercel.app/api?username=gabriel97felipe&show_icons=true&hide_border=true&count_private=true&hide=issues&include_all_commits=true" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel97felipe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ---
 
