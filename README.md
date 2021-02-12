@@ -11,8 +11,8 @@
 ### Conecte-se comigo:
 
 [<img align="left" alt="gabriel-ferreira-31417590 | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="gabriel97felipe | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="gabriel97felipe | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="gabriel97felipe | Whatsapp" width="30px" src="https://api.whatsapp.com/send?phone=5515981879090&text=Olá!%20Te%20achei%20pelo%20Github!" />][Whatsapp]
+[<img align="left" alt="gabriel97felipe | Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 <br>
 
 
