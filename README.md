@@ -3,7 +3,7 @@
 - ⚡ Apaixonado em desenvolvimento de software e tecnologias atuais.
 - :book: :brazil: Bacharelado em Ciência da Computação (UTFPR - Ponta Grossa).
 - :book: :portugal: Mestrado em Sistemas de Informação (IPB - Portugal).
-- 😄 Desenvolvedor de softwares há 8 anos.
+- 😄 Desenvolvedor de software há 8 anos.
 - :video_game: Amante de ficção, jogos, futebol e cerveja gelada.
 - :walking: 23 anos.
 
