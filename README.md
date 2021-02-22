@@ -1,4 +1,4 @@
-## Gabriel Ferreira
+# Gabriel Ferreira
 - :computer: Desenvolvedor Pleno na empresa **@Construtivo.com** :star: :star: :star:.
 - :book: :brazil: Bacharelado em Ciência da Computação (UTFPR - Ponta Grossa).
 - :book: :portugal: Mestrado em Sistemas de Informação (IPB - Portugal).
