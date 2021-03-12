@@ -7,7 +7,7 @@
 - :walking: 23 anos.
 
 
-#### Conecte-se comigo:
+### Conecte-se comigo:
 
 [<img align="left" alt="gabriel-ferreira-31417590 | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="gabriel97felipe | Whatsapp" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
@@ -15,7 +15,7 @@
 <br>
 
 
-#### Linguagens e frameworks:
+### Linguagens e frameworks:
 
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -36,7 +36,7 @@
 
 
 ---
-#### Meus status:
+### Meus status:
 
 <img align="left" alt="Meus status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel97felipe&layout=compact" />
 <img align="left" alt="Meus status" src="https://github-readme-stats.vercel.app/api?username=gabriel97felipe&show_icons=true&hide_border=true&count_private=true&hide=issues&include_all_commits=true" />
