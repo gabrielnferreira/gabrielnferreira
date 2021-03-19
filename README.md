@@ -4,7 +4,7 @@
 - :book: :portugal: Mestrado em Sistemas de Informação (IPB - Portugal).
 - 😄 Desenvolvendo e estudando softwares há 8 anos.
 - :video_game: Amante de ficção, jogos, futebol e cerveja gelada.
-- :walking: 23 anos.
+- :walking: 24 anos.
 
 
 ### Conecte-se comigo:
