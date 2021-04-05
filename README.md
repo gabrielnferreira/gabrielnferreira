@@ -2,7 +2,7 @@
 - :computer: Desenvolvedor Pleno na empresa **@Construtivo.com** :star: :star: :star:.
 - :book: :brazil: Bacharelado em Ciência da Computação (UTFPR - Ponta Grossa).
 - :book: :portugal: Mestrado em Sistemas de Informação (IPB - Portugal).
-- 😄 Desenvolvendo e estudando softwares há 8 anos.
+- 😄 Desenvolvendo e estudando software há 8 anos.
 - :video_game: Amante de ficção, jogos, futebol e cerveja gelada.
 - :walking: 24 anos.
 
