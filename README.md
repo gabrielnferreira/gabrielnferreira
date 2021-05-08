@@ -1,5 +1,5 @@
 # Gabriel Ferreira
-- :computer: Desenvolvedor Pleno na empresa **B2W Digital** :star: :star: :star:.
+- :computer: Desenvolvedor Pleno na empresa **B2W Digital** :star: :star: :star: :star: :star:.
 - :book: :brazil: Bacharelado em Ciência da Computação (UTFPR - Ponta Grossa).
 - :book: :portugal: Mestrado em Sistemas de Informação (IPB - Portugal).
 - 😄 Desenvolvendo e estudando software há 8 anos.
