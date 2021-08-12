@@ -3,7 +3,7 @@
 - :book: :brazil: Bachelor's degree in Computer Science at UTFPR (Brazil).
 - :book: :portugal: Master's degree in Information Systems at IPB (Portugal).
 - 😄 Developing and studying software for 8 years.
-- :video_game:Lover of fiction, games, soccer and cold beer.
+- :video_game: Lover of fiction, games, soccer and cold beer.
 - :walking: 24 years.
 
 
