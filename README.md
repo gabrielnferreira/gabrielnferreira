@@ -1,7 +1,7 @@
 # Gabriel Ferreira
 - :computer: Full Stack Engineer at **Americanas S.A** :star: :star: :star: :star: :star:.
-- :book: :brazil: Bachelor's degree in Computer Science at UTFPR (Brazil).
-- :book: :portugal: Master's degree in Information Systems at IPB (Portugal).
+- :book: Bachelor's degree in Computer Science at UTFPR (Brazil) :brazil:.
+- :book: Master's degree in Information Systems at IPB (Portugal) :portugal:.
 - 😄 Developing and studying software for 8 years.
 - :video_game: Lover of fiction, games, soccer and cold beer.
 - :walking: 24 years.
