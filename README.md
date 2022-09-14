@@ -1,10 +1,10 @@
 # Gabriel Ferreira
-- :computer: Full Stack Engineer at **Americanas S.A** :star: :star: :star: :star: :star:.
+- :computer: Full Stack Engineer at **Robert Bosch** :star: :star: :star: :star: :star:.
 - :book: Bachelor's degree in Computer Science at UTFPR (Brazil) :brazil:.
 - :book: Master's degree in Information Systems at IPB (Portugal) :portugal:.
-- 😄 Developing and studying software for 8 years.
+- 😄 Developing and studying software for 9 years.
 - :video_game: Lover of fiction, games, soccer and cold beer.
-- :walking: 24 years.
+- :walking: 25 years.
 
 
 ### Connect with me:
