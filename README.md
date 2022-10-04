@@ -1,5 +1,5 @@
 # Gabriel Ferreira
-- :computer: Full Stack Engineer at **Robert Bosch** :star: :star: :star: :star: :star:.
+- :computer: Senior Software Developer at **Robert Bosch** :star: :star: :star: :star: :star:.
 - :book: Bachelor's degree in Computer Science at UTFPR (Brazil) :brazil:.
 - :book: Master's degree in Information Systems at IPB (Portugal) :portugal:.
 - 😄 Developing and studying software for 9 years.
