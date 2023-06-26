@@ -4,7 +4,7 @@
 - :book: Master's degree in Information Systems at IPB (Portugal) :portugal:.
 - 😄 Developing and studying software for 9 years.
 - :video_game: Lover of sci-fi, games, soccer and cold beer.
-- :walking: 25 years.
+- :walking: 26 years.
 
 
 ### Connect with me:
