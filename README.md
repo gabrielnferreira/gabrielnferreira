@@ -35,8 +35,8 @@
 ---
 ### My status:
 
-<img align="left" alt="Meus status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel97felipe&layout=compact" />
-<img align="left" alt="Meus status" src="https://github-readme-stats.vercel.app/api?username=gabriel97felipe&show_icons=true&hide_border=true&count_private=true&hide=issues&include_all_commits=true" />
+<img align="left" alt="Meus status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielnferreira&layout=compact" />
+<img align="left" alt="Meus status" src="https://github-readme-stats.vercel.app/api?username=gabrielnferreira&show_icons=true&hide_border=true&count_private=true&hide=issues&include_all_commits=true" />
 
 
 
@@ -47,5 +47,5 @@
 [whatsapp]: https://api.whatsapp.com/send?phone=5515981879090&text=Olá!%20Te%20achei%20pelo%20Github!
 
 <!--
-**gabriel97felipe/gabriel97felipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**gabrielnferreira/gabrielnferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
