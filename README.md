@@ -2,9 +2,9 @@
 - :computer: Senior Software Developer at **Robert Bosch** :star: :star: :star: :star: :star:.
 - :book: Bachelor's degree in Computer Science at UTFPR (Brazil) :brazil:.
 - :book: Master's degree in Information Systems at IPB (Portugal) :portugal:.
-- 😄 Developing and studying software for 9 years.
+- 😄 Developing and studying software for 11 years.
 - :video_game: Lover of sci-fi, games, soccer and cold beer.
-- :walking: 26 years.
+- :walking: 28 years.
 
 
 ### Connect with me:
